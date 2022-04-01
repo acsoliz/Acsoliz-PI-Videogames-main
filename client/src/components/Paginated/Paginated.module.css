@@ -1,0 +1,18 @@
+.container {
+	width: 10x;
+	height: 30px;
+	overflow: hidden;
+	/* border-style: solid; */
+}
+.button {
+	/* cursor: pointer; */
+	font-size:0,9cm;
+    padding: 1rem;
+	color:rgb(239, 236, 240);
+	font-weight: bold;
+	
+}
+.button:hover {
+	color: #0000db;
+	cursor: pointer;
+}

@@ -1,0 +1,43 @@
+.contenedorCard {
+	/* border-style: groove; */
+	border-radius: 20px;
+	height: 9cm;
+	width: 10cm;
+	
+}
+.contenedorCard:hover {
+	background: transparent ;
+}
+.divGenres{
+background-color: white;
+border-radius: 20px;
+}
+.filter{
+	border-radius: 20px;
+}
+.linkStyle{
+	color: rgb(0, 0, 0);
+	display: block;
+	text-align: center;
+
+	text-decoration: none;
+	padding: 10px 10px;
+}
+.tittleName{
+	color: rgba(252, 249, 249, 0.582);
+	font-size: 1.5em;
+	display: block;
+	text-align: center;
+	margin-block-start: 0,4em;
+    margin-block-end: 0;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+	
+	text-decoration: none
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    
+    font-weight: bold;
+}
